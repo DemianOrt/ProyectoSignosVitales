@@ -1,4 +1,5 @@
 Proyecto Transversal de Signos Vitales - CONALEP
+
 Este documento resume las mejoras y la reestructuración aplicadas al proyecto original, transformándolo en una aplicación web moderna, eficiente y con funcionalidades avanzadas.
 
 Resumen de Cambios y Correcciones
